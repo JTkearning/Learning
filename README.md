@@ -1,2 +1,3 @@
 # Learning
 正在学习GitHub中......
+长期主义
